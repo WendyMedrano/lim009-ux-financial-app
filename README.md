@@ -53,6 +53,15 @@ Según un estudio de la consultora Brillio.
 - Desde 2012, la expectativa de que los bancos inviertan en servicios móviles ha aumentado en un 50%.
 - El 70% de lo millennials, ha usado herramientas móviles a comparación de un 40% de los adultos
 - El 77% de los millennials han realizado transacciones en banca móvil.
+## Análisis de la Data
+Nos proporcionaron una data en excel donde lo primero que nos dimos cuenta fue la desproporción de la cantidad de impresiones con los anunciones de fb y el registro en el app, por lo que quisimos validar esa relación.
+Lo hicimos mediante una técnica estadística conocidad como el Chi-cuadrado:
+### Impresiones de Facebook vs  registros
+- Primero comparamos la correlación entre las impresiones de Facebook y los registros que era lo que nos importaba y la conclusión fue que con un 95% de confiabilidad y un grado de libertad no existía correlación entre ambas, y esto se puede verificar en la siguiente gráfica, donde a pesar que aumente las impresiones, no se  ven reflejadas en la cantidad de registros:
+
+ donde comprobamos que no existía correlación entre las .
+ ### Impresiones de Landing page vs  registros
+### Descarga del app vs  registros
 
 ### Benchmark
 
@@ -64,8 +73,6 @@ Durante la entrevista con Lalo el product manager del app pudimos inferir los si
 - Quieren conocer las motivaciones para ahorrar.
 
 ### Entrevista a posibles Usuarios
-
-
 
 ## SÍNTESIS Y DEFINICIÓN
 
@@ -144,13 +151,7 @@ Para continuar viendo nuestro prototipo en InVision dale click al  siguiente
 
 Las nuevas funcionalidades responden a los objetivos del proyecto, pues cada uno de los cambios se realizó posterior al testeo con usuarios y posibles usuarios y resuelve cada uno de los problems statements encontrados en la investigación.
 
-## ANÁLISIS DE LA DATA
-Nos proporcionaron una data en excel donde lo primero que nos dimos cuenta fue la desproporción de la cantidad de impresiones con los anunciones de fb y el registro en el app, por lo que quisimos validar esa relación.
-Lo hicimos mediante una técnica estadística conocidad como el Chi-cuadrado:
 
-- Primero comparamos la correlación entre las impresiones de Facebook y los registros que era lo que nos importaba y la conclusión fue que con un 95% de confiabilidad y un grado de libertad no existía correlación entre ambas, y esto se puede verificar en la siguiente gráfica, donde a pesar que aumente las impresiones, no se  ven reflejadas en la cantidad de registros:
-
- donde comprobamos que no existía correlación entre las .
 
 # Aplicación financiera
 
