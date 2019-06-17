@@ -1,6 +1,6 @@
 # REDISEÑO DE LA APP FINANCIERA: TUS FINANZAS
 
-## Introducción
+## INTRODUCIÓN
 El Product Manager de un banco se puso en contacto con nosotras y nos solicitó que los ayudemos en el rediseño de un app que el equipo del laboratorio de innovación el bancó diseñó desde cero, empezaron entrevistando a algunos usuarios y revisando los resultados de un estudio de mercado que les proporcionó el área de marketing. En base a ello identificaron funcionalidades más relevantes, crearon sus primeros user personas una primaria y una secundaria y diseñaron y desarrollaron un ‘Producto mínimo viable’ (MVP) en 2 meses en iOS. Ese MVP lo han lanzado y tienen alrededor de 6 meses de data. Buscaban entender los resultados iniciales y de sacar una segunda iteración del producto, para lo que nos enviaron los siguientes recursos en [Google Drive](http://bit.ly/uxd-reto-2).
 
 Ellos necesitaban traer una propuesta del nuevo diseño en dos semanas porque tenían que presentarla a su Gerente General en la reunión trimestral y pidieron que ya tenga feedback de testing con usuarios. Adicionalmente  nos pidieron que analicemos la data generada desde el primer contacto desde Facebook Ads, donde no saben si deben duplicar la inversión, hasta el uso del app.
@@ -21,6 +21,45 @@ Es por ello que nuestro equipo se propuso:
 ![image](https://user-images.githubusercontent.com/47748753/58359563-b66fbf80-7e49-11e9-9391-d83396a4519b.png)
 
 ### Investigación del contexto de la Industria
+Las nuevas tecnologías han creado formas de hacer negocio financiero y los clientes por su parte, exigen soluciones inmediatas, así como una atención personalizada y omnicanal.
+
+En general, se observa que el número de operaciones efectuadas a través de canales virtuales -que no requieren la presencia física del cliente (banca móvil, e-commerce, banca por internet, software corporativo)- en el primer semestre del 2018 totalizaron 106.7 millones y alcanzaron un incremento de 23.97% frente a similar periodo del 2017, según ASBANC.
+
+##### TIPOS DE CLIENTES DE LA BANCA ACTUAL
+En la actualidad existen tres tipos clientes en las entidades financieras:
+
+EL CLIENTE TRADICIONAL
+Acude a su oficina habitual en busca de una atención y trato personalizado.
+
+EL CLIENTE OMNICANAL
+Se mueve entre ambos entornos (off y online), en función de sus circunstancias y necesidades.
+
+EL CLIENTE 100 % DIGITAL
+Apuesta por una banca totalmente digital, sencilla, ágil y transparente, aunque quizás con productos menos especializados.
+
+
+¿Cómo va la industria de la banca móvil? 
+Según Asbanc: 
+El aumento de la participación en algunos canales de atención como banca móvil o e-commerce refleja su mayor uso en el último año como puntos transaccionales para los clientes financieros.
+En el primer semestre se realizaron 22.6 millones de operaciones monetarias a través de la banca móvil, superando en 111.37% al nivel observado en igual periodo del 2017.
+
+
+Cada uno tiene un perfil diferente, pero un punto en común: la búsqueda de una experiencia de usuario positiva.
+
+Según un estudio el 60% de los encuestados quiere aplicaciones de pagos sin necesidad de entrar en contacto con nadie y 57% busca herramientas que hagan transferencias internacionales instantáneamente.
+
+Estadísticas:
+
+66% de los usuarios aún prefieren hablar  una persona real cuando realizan transaciones bancarias
+Según un estudio de la consultora Brillio.
+El 73% de las mujeres están insatisfechas con la industria bancaria.
+2 de cada 5 clientes se irán tras una mala experiencia.
+El 60% de los clientes van a otro lado para hipotecas.
+El 20% cambió algunos o todos sus productos de banca minorista en 2012.
+Desde 2012, la expectativa de que los bancos inviertan en servicios móviles ha aumentado en un 50%.
+El 70% de lo millennials, ha usado herramientas móviles a comparación de un 40% de los adultos
+el 77% de los millennials han realizado transacciones en banca móvil.
+
 ### Benchmark
 ### Entrevista a cliente:
 Durante la entrevista que fue por videollamada pudimos inferir los siguientes objetivos del app:
@@ -46,12 +85,12 @@ En base a todo lo observado obtuvimos datos sumamente importantes, para ello rea
 Nuestro afinity map lo desarrollamos en la ayuda online MIRO, al que pueden tener acceso desde [aquí](https://miro.com/app/board/o9J_kxHORbg=/)
 
 ### User Personas
-#### User Personas presentado el cliente:
+#### User Personas presentados el cliente:
 El cliente nos presentó a dos user personas, el User persona primario que fue Fiorela:
 
 Y el User persona secundario fue Diego 
 
-#### User Personas propuesto:
+#### Análisis para el cambio de User personas:
 Luego de las entrevistas clasificamos a los posibles usuarios en tres grupos:
 ##### Estudiantes y dependientes econónomicamente de sus padres
 - Rango de edad: 18 a 24 años
@@ -68,10 +107,11 @@ Luego de las entrevistas clasificamos a los posibles usuarios en tres grupos:
 - Hobbies: Pasar tiempo en familia, mantener contacto con posibles clientes y manntenerse al tanto de las nuevas tendencias
 - Ideas sobre el ahorro: Es vital para la estabilidad personal, familiar y el crecimiento de sus empresas o para planes o calma futura.
 - ¿Ahorran? Sí, ahorran con seguros con débito automáticos, para la seguridad de la educación de sus hijos y salud de toda su familia.
-####  User Persona principal
+#### User personas propuesto
+#####  User Persona principal
 Luego de este análisis, replanteamos los users personas y construimos a Kiara, nuestra USER PERSONA PRINCIPAL, que pertenece al segundo grupo de los "Independientes y sin carga familiar" y la denominamos como la "VIAJERA":
 ![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
-####  User Persona secundario
+#####  User Persona secundario
 También propusimos a Mateo del tercer grupo de los "Independiente y con carga familiar" y lo denominamos como el "PROTECTOR"
 ![User Persona 2](https://user-images.githubusercontent.com/47748753/59640817-dc287580-9124-11e9-90ee-23e76e2d68d4.png)
 
