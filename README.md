@@ -53,6 +53,7 @@ links, encontrarán:
 - [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
 
+## OBJETIVOS DEL PROYECTO
 
 ## DESCUBRIMIENTO E IDEACIÓN
 
