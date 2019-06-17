@@ -61,14 +61,11 @@ links, encontrarán:
 
 
 
-### Entrevista a cliente Andi The Coach:
+### Entrevista a cliente:
 
 
 
-### Entrevista a Usuarios
-
-
-### Entrevistas a no Usuarios
+### Entrevista a posibles Usuarios
 
 
 
@@ -79,9 +76,17 @@ links, encontrarán:
 En base a todo lo observado obtuvimos datos sumamente importantes, para ello realizamos el Affinity Map y el Customer Journey Map e identificamos a nuestro User Persona.
 
 
+
+
+### Affinity Map
+Nuestro afinity map lo desarrollamos en la ayuda online MIRO, al que pueden tener acceso desde [aquí](https://miro.com/app/board/o9J_kxHORbg=/)
+
 ### User Personas
 #### User Personas presentado el cliente:
-El cliente nos presentó a dos user personas, a Fiorela y a  que nos presentó el cliente, 
+El cliente nos presentó a dos user personas, el User persona primario que fue Fiorela:
+
+Y el User persona secundario fue Diego 
+
 #### User Personas propuesto:
 Luego de las entrevistas clasificamos a los posibles usuarios en tres grupos:
 ##### Estudiantes y dependientes econónomicamente de sus padres
@@ -99,16 +104,16 @@ Luego de las entrevistas clasificamos a los posibles usuarios en tres grupos:
 - Hobbies: Pasar tiempo en familia, mantener contacto con posibles clientes y manntenerse al tanto de las nuevas tendencias
 - Ideas sobre el ahorro: Es vital para la estabilidad personal, familiar y el crecimiento de sus empresas o para planes o calma futura.
 - ¿Ahorran? Sí, ahorran con seguros con débito automáticos, para la seguridad de la educación de sus hijos y salud de toda su familia.
-
-Luego de este análisis, replanteamos los users personas y construimos a Kiara, que pertenece al segundo grupo de los "Independientes y sin carga familiar":
+####  User Persona principal
+Luego de este análisis, replanteamos los users personas y construimos a Kiara, nuestra USER PERSONA PRINCIPAL, que pertenece al segundo grupo de los "Independientes y sin carga familiar" y la denominamos como la "VIAJERA":
 ![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
-
-Y a  del grupo de los "Independiente y con carga familiar"
+####  User Persona secundario
+También propusimos a Mateo del tercer grupo de los "Independiente y con carga familiar" y lo denominamos como el "PROTECTOR"
 ![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
-### Affinity Map
 
 ### Customer Journey Map
-
+Presentamos el Customer Journey de Kiara, al momento de usar el app financiera que el banco nos propuso, donde el principal dolor lo sintió al regresar al menú principal, entre otros que se pueden ver a continuación:
+![image](https://user-images.githubusercontent.com/47748753/59632107-02431b00-910f-11e9-92d7-f8c2f0fe0b41.png)
 ### Problem Statements
 
 
