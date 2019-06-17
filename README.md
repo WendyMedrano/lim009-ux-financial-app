@@ -81,16 +81,16 @@ En base a todo lo observado obtuvimos datos sumamente importantes, para ello rea
 
 ### User Persona
 
-![image](https://user-images.githubusercontent.com/47748753/58351999-ead68200-7e2f-11e9-828c-b6c9dc6433d9.png)
+
 
 ### Affinity Map
 
-![image](https://user-images.githubusercontent.com/47748753/58351965-d7c3b200-7e2f-11e9-9534-9ee0c9acc5e7.png)
+
 
 
 ### Customer Journey Map
 
-![image](https://user-images.githubusercontent.com/47748753/58351876-a0550580-7e2f-11e9-8246-46b50e308ea7.png)
+
 
 ### Problem Statements
 
@@ -106,21 +106,8 @@ En esta etapa buscamos las mejores maneras para desarrollar las funcionalidades 
 
 ### Benchmark
 
-![image](https://user-images.githubusercontent.com/47748753/58351915-b82c8980-7e2f-11e9-9c7a-75320f59aab4.png)
 
-### Crazy8s
 
-![image](https://user-images.githubusercontent.com/47748753/58351937-c8446900-7e2f-11e9-81b3-7d5941c5d11e.png)
-
-![image](https://user-images.githubusercontent.com/47748753/58352028-ff1a7f00-7e2f-11e9-954c-9882c3ffc0fa.png)
-
-![image](https://user-images.githubusercontent.com/47748753/58352054-0fcaf500-7e30-11e9-9607-b4b731817afb.png)
-
-### Prototipo de Baja Fidelidad
-
-Luego de realizar los crazy 8 , se desarrolló el prototipo de baja fidelidad, el cual fue testeado con 2 posibles usuarios.
-
-![image](https://user-images.githubusercontent.com/47748753/58352122-3d17a300-7e30-11e9-94cf-67d2f9720231.png)
 
 ### Testeo de prototipo de baja fidelidad:
 
