@@ -105,7 +105,7 @@ Luego de este análisis, replanteamos los users personas y construimos a Kiara, 
 ![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
 #####  User Persona secundario
 También propusimos a Mateo del tercer grupo de los "Independiente y con carga familiar" y lo denominamos como el "PROTECTOR"
-![User Persona 2](https://user-images.githubusercontent.com/47748753/59643093-14cc4d00-912d-11e9-9e89-6d81c14b03c1.png)
+
 ![User PERSONA SECUNDARIO](https://user-images.githubusercontent.com/47748753/59643384-0d597380-912e-11e9-84ff-a1bedc0d1908.png)
 
 ### Customer Journey Map
