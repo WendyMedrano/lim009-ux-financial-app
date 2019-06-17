@@ -79,24 +79,40 @@ links, encontrarán:
 En base a todo lo observado obtuvimos datos sumamente importantes, para ello realizamos el Affinity Map y el Customer Journey Map e identificamos a nuestro User Persona.
 
 
-### User Persona
+### User Personas
+#### User Personas presentado el cliente:
+El cliente nos presentó a dos user personas, a Fiorela y a  que nos presentó el cliente, 
+#### User Personas propuesto:
+Luego de las entrevistas clasificamos a los posibles usuarios en tres grupos:
+##### Estudiantes y dependientes econónomicamente de sus padres
+- Rango de edad: 18 a 24 años
+- Hobbies: Salir con amigos, leer, aprender autodidácticamente y divertirse.
+- Ideas sobre el ahorro: Es muy necesario para tener un respaldo a futuro y comprar o conseguir metas personales o familiare.
+- ¿Ahorran? Tienen la intención pero como dependen económicamente de sus padres no pueden hacerlo.
+##### Independientes y sin carga familiar
+- Rango de edad: 25 a 30 años.
+- Hobbies: Viajar individualmente y con amigos, aprender cosas nuevas, salir con amigos los fines de semana.
+- Ideas sobre el ahorro: Saben que es vital ahorrar para tener un respaldo en caso de emergencias y eventos no previstos.
+- ¿Ahorran? Sí, lo que les sobra del sueldo y para viajes.
+##### Independientes con carga familiar
+- Rango de edad: 31 a 40 años.
+- Hobbies: Pasar tiempo en familia, mantener contacto con posibles clientes y manntenerse al tanto de las nuevas tendencias
+- Ideas sobre el ahorro: Es vital para la estabilidad personal, familiar y el crecimiento de sus empresas o para planes o calma futura.
+- ¿Ahorran? Sí, ahorran con seguros con débito automáticos, para la seguridad de la educación de sus hijos y salud de toda su familia.
 
+Luego de este análisis, replanteamos los users personas y construimos a Kiara, que pertenece al segundo grupo de los "Independientes y sin carga familiar":
+![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
 
-
+Y a  del grupo de los "Independiente y con carga familiar"
+![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
 ### Affinity Map
 
-
-
-
 ### Customer Journey Map
-
-
 
 ### Problem Statements
 
 
 ### How Might We
-
 
 ## IDEACIÓN
 
