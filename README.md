@@ -1,15 +1,4 @@
-# Aplicación financiera
-
-## Preámbulo
-
-El banco más importante del país ha lanzado una nueva aplicación móvil al
-mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
-el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
-equipo detrás de este nuevo producto ha decidido contratar a una
-agencia/consultora de UX que los ayude a definir la dirección y evolución del
-producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
-de UX y son asignadas al proyecto.
-
+# REDISEÑO DE LA APP FINANCIERA: TUS FINANZAS
 ## Introducción
 
 ### Contexto
@@ -62,6 +51,108 @@ links, encontrarán:
 - Funnel Analytics de los primeros 6 meses del MVP
 - Data de uso del MVP de los primeros 6 meses
 - [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
+
+
+
+## DESCUBRIMIENTO E IDEACIÓN
+
+![image](https://user-images.githubusercontent.com/47748753/58359563-b66fbf80-7e49-11e9-9391-d83396a4519b.png)
+
+
+
+### Entrevista a cliente Andi The Coach:
+
+
+
+### Entrevista a Usuarios
+
+
+### Entrevistas a no Usuarios
+
+
+
+## SÍNTESIS Y DEFINICIÓN
+
+![image](https://user-images.githubusercontent.com/47748753/58359572-bff92780-7e49-11e9-9869-dd908f95d10f.png)
+
+En base a todo lo observado obtuvimos datos sumamente importantes, para ello realizamos el Affinity Map y el Customer Journey Map e identificamos a nuestro User Persona.
+
+
+### User Persona
+
+![image](https://user-images.githubusercontent.com/47748753/58351999-ead68200-7e2f-11e9-828c-b6c9dc6433d9.png)
+
+### Affinity Map
+
+![image](https://user-images.githubusercontent.com/47748753/58351965-d7c3b200-7e2f-11e9-9534-9ee0c9acc5e7.png)
+
+
+### Customer Journey Map
+
+![image](https://user-images.githubusercontent.com/47748753/58351876-a0550580-7e2f-11e9-8246-46b50e308ea7.png)
+
+### Problem Statements
+
+
+### How Might We
+
+
+## IDEACIÓN
+
+![image](https://user-images.githubusercontent.com/47748753/58359586-cdaead00-7e49-11e9-8d49-d164296d7c03.png)
+
+En esta etapa buscamos las mejores maneras para desarrollar las funcionalidades definidas en la etapa de síntesis.
+
+### Benchmark
+
+![image](https://user-images.githubusercontent.com/47748753/58351915-b82c8980-7e2f-11e9-9c7a-75320f59aab4.png)
+
+### Crazy8s
+
+![image](https://user-images.githubusercontent.com/47748753/58351937-c8446900-7e2f-11e9-81b3-7d5941c5d11e.png)
+
+![image](https://user-images.githubusercontent.com/47748753/58352028-ff1a7f00-7e2f-11e9-954c-9882c3ffc0fa.png)
+
+![image](https://user-images.githubusercontent.com/47748753/58352054-0fcaf500-7e30-11e9-9607-b4b731817afb.png)
+
+### Prototipo de Baja Fidelidad
+
+Luego de realizar los crazy 8 , se desarrolló el prototipo de baja fidelidad, el cual fue testeado con 2 posibles usuarios.
+
+![image](https://user-images.githubusercontent.com/47748753/58352122-3d17a300-7e30-11e9-94cf-67d2f9720231.png)
+
+### Testeo de prototipo de baja fidelidad:
+
+
+## PROTOTIPADO
+
+![image](https://user-images.githubusercontent.com/47748753/58359983-bffa2700-7e4b-11e9-9ee2-ac64c78335c1.png)
+
+Después de realizar el prototipo de baja fidelidad en lápiz y papel y su respectivo testeo, realizamos el prototipo de alta fidelidad en Figma.
+
+Para continuar viendo nuestro prototipo en InVision dale click al  siguiente
+[link](https://invis.io/WZS37D3UCJ5#/365291028_Andi_Presentaci-n_Final_-5-).
+
+### Objetivos del proyecto
+
+El objetivo de este proyecto es mejorar la experiencia de usuario de la plataforma virtual de Andi the coach, para que el usuario encuentre una plataforma amigable y fácil de usar.
+
+### Como los contenidos y funcionalidades responden a los objetivos del proyecto y resuelven cada uno de las necesidades del usuario final.
+
+Las nuevas funcionalidades responden a los objetivos del proyecto, pues cada uno de los cambios se realizó posterior al testeo con usuarios y posibles usuarios y resuelve cada uno de los problems statements encontrados en la investigación.
+
+# Aplicación financiera
+
+## Preámbulo
+
+El banco más importante del país ha lanzado una nueva aplicación móvil al
+mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar
+el ahorro. Luego de tener algunos meses en el mercado y algo de tracción, el
+equipo detrás de este nuevo producto ha decidido contratar a una
+agencia/consultora de UX que los ayude a definir la dirección y evolución del
+producto. Tú y otra compañera de Laboratoria trabajan en la agencia/consultora
+de UX y son asignadas al proyecto.
+
 
 ## Objetivos de aprendizaje
 
