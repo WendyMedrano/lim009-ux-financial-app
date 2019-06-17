@@ -106,6 +106,7 @@ Luego de este análisis, replanteamos los users personas y construimos a Kiara, 
 #####  User Persona secundario
 También propusimos a Mateo del tercer grupo de los "Independiente y con carga familiar" y lo denominamos como el "PROTECTOR"
 ![User Persona 2](https://user-images.githubusercontent.com/47748753/59643093-14cc4d00-912d-11e9-9e89-6d81c14b03c1.png)
+![User PERSONA SECUNDARIO](https://user-images.githubusercontent.com/47748753/59643384-0d597380-912e-11e9-84ff-a1bedc0d1908.png)
 
 ### Customer Journey Map
 Presentamos el Customer Journey de Kiara, al momento de usar el app financiera que el banco nos propuso, donde el principal dolor lo sintió al regresar al menú principal, entre otros que se pueden ver a continuación:
