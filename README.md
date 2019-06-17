@@ -28,45 +28,40 @@ En general, se observa que el número de operaciones efectuadas a través de can
 ##### TIPOS DE CLIENTES DE LA BANCA ACTUAL
 En la actualidad existen tres tipos clientes en las entidades financieras:
 
-EL CLIENTE TRADICIONAL
+###### EL CLIENTE TRADICIONAL
 Acude a su oficina habitual en busca de una atención y trato personalizado.
 
-EL CLIENTE OMNICANAL
+###### EL CLIENTE OMNICANAL
 Se mueve entre ambos entornos (off y online), en función de sus circunstancias y necesidades.
 
-EL CLIENTE 100 % DIGITAL
+###### EL CLIENTE 100 % DIGITAL
 Apuesta por una banca totalmente digital, sencilla, ágil y transparente, aunque quizás con productos menos especializados.
 
+##### ¿Cómo va la industria de la banca móvil? 
 
-¿Cómo va la industria de la banca móvil? 
 Según Asbanc: 
 El aumento de la participación en algunos canales de atención como banca móvil o e-commerce refleja su mayor uso en el último año como puntos transaccionales para los clientes financieros.
 En el primer semestre se realizaron 22.6 millones de operaciones monetarias a través de la banca móvil, superando en 111.37% al nivel observado en igual periodo del 2017.
 
+Cada uno tiene un perfil diferente,pero un punto en común: la búsqueda de una experiencia de usuario positiva.
 
-Cada uno tiene un perfil diferente, pero un punto en común: la búsqueda de una experiencia de usuario positiva.
+##### Estadísticas:
 
-Según un estudio el 60% de los encuestados quiere aplicaciones de pagos sin necesidad de entrar en contacto con nadie y 57% busca herramientas que hagan transferencias internacionales instantáneamente.
-
-Estadísticas:
-
-66% de los usuarios aún prefieren hablar  una persona real cuando realizan transaciones bancarias
 Según un estudio de la consultora Brillio.
-El 73% de las mujeres están insatisfechas con la industria bancaria.
-2 de cada 5 clientes se irán tras una mala experiencia.
-El 60% de los clientes van a otro lado para hipotecas.
-El 20% cambió algunos o todos sus productos de banca minorista en 2012.
-Desde 2012, la expectativa de que los bancos inviertan en servicios móviles ha aumentado en un 50%.
-El 70% de lo millennials, ha usado herramientas móviles a comparación de un 40% de los adultos
-el 77% de los millennials han realizado transacciones en banca móvil.
+- El 73% de las mujeres están insatisfechas con la industria bancaria.
+- 2 de cada 5 clientes se irán tras una mala experiencia.
+- Desde 2012, la expectativa de que los bancos inviertan en servicios móviles ha aumentado en un 50%.
+- El 70% de lo millennials, ha usado herramientas móviles a comparación de un 40% de los adultos
+- El 77% de los millennials han realizado transacciones en banca móvil.
 
 ### Benchmark
-### Entrevista a cliente:
-Durante la entrevista que fue por videollamada pudimos inferir los siguientes objetivos del app:
+
+### Entrevista al cliente:
+Durante la entrevista con Lalo el product manager del app pudimos inferir los siguientes objetivos del app:
 - El app está enfocado al ahorro
-1ro Queremos ser como tu asistente para aprender ahorrar.
-2do Crea metas para ahorrar (ahorro con objetivos).
-3ro Queremos conocer las motivaciones para ahorrar.
+- Quieren ser como un asistente para aprender ahorrar.
+- Quieren crear metas para ahorrar (ahorro con objetivos).
+- Quieren conocer las motivaciones para ahorrar.
 
 ### Entrevista a posibles Usuarios
 
@@ -77,9 +72,6 @@ Durante la entrevista que fue por videollamada pudimos inferir los siguientes ob
 ![image](https://user-images.githubusercontent.com/47748753/58359572-bff92780-7e49-11e9-9869-dd908f95d10f.png)
 
 En base a todo lo observado obtuvimos datos sumamente importantes, para ello realizamos el Affinity Map y el Customer Journey Map e identificamos a nuestro User Persona.
-
-
-
 
 ### Affinity Map
 Nuestro afinity map lo desarrollamos en la ayuda online MIRO, al que pueden tener acceso desde [aquí](https://miro.com/app/board/o9J_kxHORbg=/)
@@ -113,7 +105,7 @@ Luego de este análisis, replanteamos los users personas y construimos a Kiara, 
 ![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
 #####  User Persona secundario
 También propusimos a Mateo del tercer grupo de los "Independiente y con carga familiar" y lo denominamos como el "PROTECTOR"
-![User Persona 2](https://user-images.githubusercontent.com/47748753/59640817-dc287580-9124-11e9-90ee-23e76e2d68d4.png)
+![User Persona 2](https://user-images.githubusercontent.com/47748753/59643093-14cc4d00-912d-11e9-9e89-6d81c14b03c1.png)
 
 ### Customer Journey Map
 Presentamos el Customer Journey de Kiara, al momento de usar el app financiera que el banco nos propuso, donde el principal dolor lo sintió al regresar al menú principal, entre otros que se pueden ver a continuación:
