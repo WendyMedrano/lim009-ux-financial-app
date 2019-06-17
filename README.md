@@ -20,11 +20,14 @@ Es por ello que nuestro equipo se propuso:
 
 ![image](https://user-images.githubusercontent.com/47748753/58359563-b66fbf80-7e49-11e9-9391-d83396a4519b.png)
 
-
-
+### Investigación del contexto de la Industria
+### Benchmark
 ### Entrevista a cliente:
 Durante la entrevista que fue por videollamada pudimos inferir los siguientes objetivos del app:
-
+- El app está enfocado al ahorro
+1ro Queremos ser como tu asistente para aprender ahorrar.
+2do Crea metas para ahorrar (ahorro con objetivos).
+3ro Queremos conocer las motivaciones para ahorrar.
 
 ### Entrevista a posibles Usuarios
 
@@ -70,7 +73,7 @@ Luego de este análisis, replanteamos los users personas y construimos a Kiara, 
 ![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
 ####  User Persona secundario
 También propusimos a Mateo del tercer grupo de los "Independiente y con carga familiar" y lo denominamos como el "PROTECTOR"
-![USER PERSONA](https://user-images.githubusercontent.com/47748753/59630320-a8d8ed00-910a-11e9-8992-dd43c8b4eb4b.png)
+![User Persona 2](https://user-images.githubusercontent.com/47748753/59640817-dc287580-9124-11e9-90ee-23e76e2d68d4.png)
 
 ### Customer Journey Map
 Presentamos el Customer Journey de Kiara, al momento de usar el app financiera que el banco nos propuso, donde el principal dolor lo sintió al regresar al menú principal, entre otros que se pueden ver a continuación:
