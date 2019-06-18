@@ -1,4 +1,4 @@
-# REDISEÑO DE LA APP FINANCIERA: TUS FINANZAS
+# REDISEÑO DE LA APP TUS FINANZAS
 
 ## 1. INTRODUCIÓN
 El Product Manager de un banco se puso en contacto con nosotras y nos solicitó que los ayudemos en el rediseño de un app que el equipo del laboratorio de innovación el bancó diseñó desde cero, empezaron entrevistando a algunos usuarios y revisando los resultados de un estudio de mercado que les proporcionó el área de marketing. En base a ello identificaron funcionalidades más relevantes, crearon sus primeros user personas una primaria y una secundaria y diseñaron y desarrollaron un ‘Producto mínimo viable’ (MVP) en 2 meses en iOS. Ese MVP lo han lanzado y tienen alrededor de 6 meses de data. Buscaban entender los resultados iniciales y de sacar una segunda iteración del producto, para lo que nos enviaron los siguientes recursos en [Google Drive](http://bit.ly/uxd-reto-2).
