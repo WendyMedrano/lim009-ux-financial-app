@@ -159,13 +159,23 @@ Propusimos 4 misiones:
 En base a todo lo observado obtuvimos datos sumamente importantes, para ello realizamos el Affinity Map y el Customer Journey Map e identificamos a nuestro User Persona.
 
 ### 4.1. Affinity Map
-Nuestro afinity map lo desarrollamos en la ayuda online MIRO, al que pueden tener acceso desde [aquí](https://miro.com/app/board/o9J_kxHORbg=/)
+Nuestro affinity map lo desarrollamos en la ayuda online MIRO, al que pueden tener acceso desde [aquí](https://miro.com/app/board/o9J_kxHORbg=/)
+
+La cual clasterizamos como a continuación se ve:
+![image](https://user-images.githubusercontent.com/47748753/59649539-aeedbe80-9148-11e9-93de-acb1eb6e188c.png)
+ ![image](https://user-images.githubusercontent.com/47748753/59649474-73eb8b00-9148-11e9-81d3-aac278cdd99c.png)
+
+
 
 ### 4.2. User Personas
 #### 4.2.1. User Personas presentados el cliente:
 El cliente nos presentó a dos user personas, el User persona primario que fue Fiorela:
 
-Y el User persona secundario fue Diego 
+![image](https://user-images.githubusercontent.com/47748753/59649808-7f8b8180-9149-11e9-9660-88e106ecb56a.png)
+
+Y el User persona secundario fue Diego:
+
+![image](https://user-images.githubusercontent.com/47748753/59649871-c4afb380-9149-11e9-8d2a-25f1aade8f9f.png)
 
 #### 4.2.2. Análisis para el cambio de User personas:
 Luego de las entrevistas clasificamos a los posibles usuarios en tres grupos:
@@ -198,11 +208,26 @@ Presentamos el Customer Journey de Kiara, al momento de usar el app financiera q
 ![image](https://user-images.githubusercontent.com/47748753/59632107-02431b00-910f-11e9-92d7-f8c2f0fe0b41.png)
 ### 4.4. Problem Statements
 
+- Kiara necesita pagar, transferir y ahorrar desde el mismo app porque tiene poco espacio en su celular.
+- Kiara necesita que la app le muestre una gráfica de porcentajes para poder ver el incremento de sus ahorros.
+- Kiara necesita que sus ahorros puedan ser en periodos semanales, quincenales, para evitar sentir de golpe el descuento de su sueldo.
+- Kiara necesita ahorrar sin darse cuenta, por que no tiene el hábito de ahorro. 
+- Kiara necesita disponer de sus ahorros en caso de emergencias o imprevistos.
+- Kiara necesita que en sus metas de ahorro, puedan agregar a más personas, en caso sea ahorro de viajes para poder tener un ahorro con sus amigas.
 
-### 4.5. How Might We
+### 4.5. Priorización
 
-### 4.6. Priorización
-### 4.7. Minimun Viable Product (MVP)
+Este es nuestro esquema de priorización: 
+![image](https://user-images.githubusercontent.com/47748753/59649440-528a9f00-9148-11e9-9bbe-43189aa4c1cd.png)
+
+### 4.6. Minimun Viable Product (MVP)
+Nuestro MVP, de acuerdo a nuestra investigación serian:
+- Rediseñar la app para mejorar la experiencia de nuestros usuarios
+- Crear metas colaborativas y así darle un plus a la app de poder generar más clientes en el banco.
+- Crear un nuevo footer mas entendible.
+- Pondremos en el footer 4 secciones (mis movimientos, mis metas, mis reportes y mis imprevistos)
+- Dentro de la sección mis metas crearemos las metas individuales y metas colaborativas, la cual permitirá a nuestros usuarios poder ahorrar con familiares, amigos o con quien desee para una meta en común.
+
 ## 5. IDEACIÓN
 
 ![image](https://user-images.githubusercontent.com/47748753/58359586-cdaead00-7e49-11e9-8d49-d164296d7c03.png)
@@ -220,97 +245,18 @@ Para continuar viendo nuestro prototipo en InVision dale click al  siguiente
 
 
 ## 7. CONCLUSIONES
+![REDISEÑO](https://user-images.githubusercontent.com/47748753/59651378-39392100-914f-11e9-9f1a-1d509a36d164.png)
 
-Las nuevas funcionalidades responden a los problem statements del proyecto encontrados en la investigación.
+Las nuevas funcionalidades responden a los problem statements, priorizados del proyecto encontrados en la investigación.
 
-- ##### Problem Statement 1:
-  * ##### Propuesta:
-- ##### Problem Statement 2:
-  * ##### Propuesta:
-- ##### Problem Statement 3:
-  * ##### Propuesta:
-- ##### Problem Statement 4:
-  * ##### Propuesta:
+- Para resolver el problem statements de Kiara al necesitar un reporte de sus gastos e ingresos, crearemos una sección de mis reportes en el que podrá ver por balances los gastos que hizo en el mes.
 
+- Para resolver el problem statements de Kiara que necesita que su ahorro sea semanal o quincenal, pondremos en la sección de mis metas un formulario en el cual ella pueda elegir el periodo de como quiere ahorrar.
 
+- Para resolver el problem statements de Kiara, porque necesita ahorrar sin darse cuenta pondremos un botón el cual le dara opcion de elegir si desea ahorrar de manera automática o no.
+- Para resolver el problem statements de Kiara, ella necesita tener dinero para sus imprevistos crearemos una sección de mis imprevistos en el cual podrá crearlos  y también podrá ponerlos en ahorro automático y una periodicidad.
+Para resolver el problem statements de Kiara, de ahorrar en conjunto con sus amigas o las personas q desee crearemos en la sección mis metas, dos secciones una de metas individuales y de metas colaborativas, ahi podra ver el avance de sus amigas por balance y podrán ahorrar para la meta en común que tienen.
 
 
-## Entrega
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
 
-README.md  detallando:
-
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
-
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
-
-### Hacker edition
-
-Para el hacker edition puedes elegir una o varias de estas opciones:
-
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
-  del journey del uso del producto. Si crees que un chatbot añadiría valor,
-  prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
-- Adapta el diseño del app para iPhone X/XS/XR.
-- Diseña un app para Apple Watch que complemente tu propuesta.
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Escribe un post en Medium contando tu proceso de investigación.
-- Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
-  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
-  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
-  - [Hip Money](https://www.youtube.com/watch?v=BIesWRESgAc)
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-En el reto del marketplace te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
-
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
-
-### 2) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
-
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
